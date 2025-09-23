@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: "Courier New", monospace;
+  color: lime;
+}
+
+form {
+  background: #222;
+  padding: 20px;
+  border: 2px dashed lime;
+}

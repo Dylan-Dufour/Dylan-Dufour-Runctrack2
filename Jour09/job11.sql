@@ -1,0 +1,1 @@
+SELECT SUM(capacite) AS somme_total FROM `salles`

@@ -1,0 +1,1 @@
+SELECT SUM(superficie) AS somme_total FROM `etage`
